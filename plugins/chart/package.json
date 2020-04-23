@@ -65,7 +65,7 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
-    "tui-chart": "^3.10.1"
+    "tui-chart": "^3.11.0"
   },
   "publishConfig": {
     "access": "public"
